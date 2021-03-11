@@ -5,6 +5,8 @@ import math
 pi_fix = round((math.pi), 3)
 
 km = 120000
+#formatando para usar ponto como separador
+km_f = format(km, ",d").replace(",",".") 
 #converte para centímetros
 km_cm = km * 100000
 d_cm = 50
@@ -24,10 +26,8 @@ while n_rotacao > 10:
 
 #Analisa se é maior que 3,16 para adicionar 1 ao exponencial
 if m > 3.16:
-    n += 1
+    n += 1    
 
-km_f = format(km, ",d").replace(",",".")     
-print(km_f)
 print("Distância percorrida: ", km_f ," km")
 print("Distância percorrida: ", km ," km")
 print("Diâmetro da roda: ", d_cm, " cm")
