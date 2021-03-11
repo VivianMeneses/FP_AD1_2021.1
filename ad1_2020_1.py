@@ -26,7 +26,9 @@ while n_rotacao > 10:
 if m > 3.16:
     n += 1
 
-
+km_f = format(km, ",d").replace(",",".")     
+print(km_f)
+print("Distância percorrida: ", km_f ," km")
 print("Distância percorrida: ", km ," km")
 print("Diâmetro da roda: ", d_cm, " cm")
 print("Ordem de grandeza da quantidade de voltas efetuadas: 10 elevado a ", n)
