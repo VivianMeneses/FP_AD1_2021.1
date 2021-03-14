@@ -19,4 +19,19 @@ Entrada: Dois inteiros. O primeiro indica a distância percorrida pelo carro, em
 
 Saída: Ordem de grandeza do número de voltas efetuadas pela roda deste carro.
 
-![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/Q1_img_saida.PNG?raw=true "Optional title")
+
+
+
+
+# Questão 02
+
+(ad1_2020_1_Q2)
+
+Considere um DNA por uma sequência do alfabeto A, C, G, T, associando as bases nitrogenadas Adenina, Citosina, Guanina ou Timina, respectivamente. Considere também um motif por um intervalo de nucleotídeos (ou de aminoácidos, em proteínas) que possui alguma importância biológica. Queremos obter todas as substrings “mais próximas” do motif. Neste problema, “mais próxima” é definida pela distância de Hamming de duas substrings. 
+
+<u>Definição:</u> Distância de Hamming entre duas strings de mesmo tamanho é o número de posições nas quais os caracteres das strings se diferem entre si. Exemplo: AGCT e CGCA possuem distância de Hamming igual a 2. 
+
+**Entrada:** Um inteiro não negativo k, onde k ≤ 50 , uma string s de mofit, com no máximo 50 caracteres, e uma string t de DNA, com no máximo 500 caracteres. 
+
+**Saída:** Todas substrings t′ de t tal que a distância de Hamming entre t′ e s seja no máximo k . Cada substring deve ser codificada na sua saída pela posição inicial em t seguida pelas posições onde t′ e s diferem. Se as entradas estiverem fora dos valores delimitados, então escreva "Valores não estão de acordo".
+
