@@ -18,5 +18,3 @@ No painel de um carro, está indicado no hodômetro a distância, em km , que o 
 Entrada: Dois inteiros. O primeiro indica a distância percorrida pelo carro, em km , e o segundo indica o diâmetro da roda do carro, em cm . 
 
 Saída: Ordem de grandeza do número de voltas efetuadas pela roda deste carro.
-
-![Q1_img_saida](C:\Users\vivi_\Documents\GitHub\FP_AD1_2021.1\Q1_img_saida.PNG)
