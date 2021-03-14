@@ -35,7 +35,7 @@ Considere um DNA por uma sequência do alfabeto A, C, G, T, associando as bases 
 
 **Saída:** Todas substrings t′ de t tal que a distância de Hamming entre t′ e s seja no máximo k . Cada substring deve ser codificada na sua saída pela posição inicial em t seguida pelas posições onde t′ e s diferem. Se as entradas estiverem fora dos valores delimitados, então escreva "Valores não estão de acordo".
 
-//imagem 2
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q2_img_saida.PNG?raw=true "Optional title")
 
 
 
@@ -51,7 +51,7 @@ Sr Cederjeano notou que estava engordando muito durante a pandemia e decidiu ent
 2. Exiba por linha o par produto e loja com menores preço; 
 3. Exiba o total a ser gasto ao considerar os menores preços.
 
-//imagem 3
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q3_img_saida.PNG?raw=true "Optional title")
 
 
 
@@ -63,9 +63,7 @@ Faça um programa, contendo subprogramas, que leia linhas da entrada padrão at�
 
 <u>Definição:</u> a distância entre dois pontos (xA,yA) e (xB,yB) é dada pela raiz quadrada da soma do quadrado das diferenças (xB-xA) e (yB-yA).
 
-//imagem 4
-
-
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q4_img_saida.PNG?raw=true "Optional title")
 
 # Questão 05
 
@@ -73,7 +71,7 @@ Faça um programa, contendo subprogramas, que leia linhas da entrada padrão at�
 
 Faça um programa, contendo subprogramas, que leia inicialmente a contagem de candidatos em uma eleição. Em seguida, em cada linha, leia o nome de um dos candidatos e seu respectivo número positivo, separados por um #. Utilize uma estrutura de dados para manter estas informações. Em seguida, leia números representando votos da eleição. Um voto por linha lida, até que um número negativo seja digitado. Totalize e escreva na saída padrão os votos de cada candidato, suponha que o número zero represente um voto em branco e um número positivo que não pertença a nenhum dos candidatos seja um voto nulo. Ao final, também escreva quantos foram os votos em branco e quantos foram os votos nulos.
 
-//imagem 5
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q5_img_saida.PNG?raw=true "Optional title")
 
 
 
@@ -85,4 +83,4 @@ Faça um programa, contendo subprograma, que leia strings da entrada padrão at�
 
 <u>Definição:</u> uma string é palíndrome se e somente se o primeiro caractere é igual ao último, o segundo caractere é igual ao penúltimo, e assim sucessivamente.
 
-//imagem 6
+![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q6_img_saida.PNG?raw=true "Optional title")
