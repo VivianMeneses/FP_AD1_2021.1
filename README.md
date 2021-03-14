@@ -1,7 +1,7 @@
-# AD1-Fundamentos-de-Programação
+# :rocket: AD1-Fundamentos-de-Programação
 :computer: AD1 de Fundamentos da Programação de 2021.1
 
-## Questão 01
+## 📌Questão 01
 
 (ad1_2020_1_Q1)
 
@@ -23,7 +23,7 @@ Saída: Ordem de grandeza do número de voltas efetuadas pela roda deste carro.
 
 
 
-# Questão 02
+# 📌Questão 02
 
 (ad1_2020_1_Q2)
 
@@ -39,7 +39,7 @@ Considere um DNA por uma sequência do alfabeto A, C, G, T, associando as bases 
 
 
 
-# Questão 03
+# 📌Questão 03
 
 (ad1_2020_1_Q3)
 
@@ -55,7 +55,7 @@ Sr Cederjeano notou que estava engordando muito durante a pandemia e decidiu ent
 
 
 
-# Questão 04
+# 📌Questão 04
 
 (ad1_2020_1_Q4)
 
@@ -65,7 +65,7 @@ Faça um programa, contendo subprogramas, que leia linhas da entrada padrão at�
 
 ![Alt text](https://github.com/VivianMeneses/FP_AD1_2021.1/blob/main/img/Q4_img_saida.PNG?raw=true "Optional title")
 
-# Questão 05
+# 📌Questão 05
 
 (ad1_2020_1_Q5)
 
@@ -75,7 +75,7 @@ Faça um programa, contendo subprogramas, que leia inicialmente a contagem de ca
 
 
 
-# Questão 06
+# 📌Questão 06
 
 (ad1_2020_1_Q6)
 
