@@ -19,4 +19,4 @@ Entrada: Dois inteiros. O primeiro indica a distância percorrida pelo carro, em
 
 Saída: Ordem de grandeza do número de voltas efetuadas pela roda deste carro.
 
-![image-20210314111450278](C:\Users\vivi_\AppData\Roaming\Typora\typora-user-images\image-20210314111450278.png)
+![Q1_img_saida](C:\Users\vivi_\Documents\GitHub\FP_AD1_2021.1\Q1_img_saida.PNG)
