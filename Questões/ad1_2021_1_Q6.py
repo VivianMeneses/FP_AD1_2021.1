@@ -20,7 +20,7 @@ def palindrome(v):
     else:
         return True
 
-txt = "aswaaqsa"
+txt = input()
 txt = "".join(txt.split())
 if palindrome(txt):
     print("é palindrome")
