@@ -1,11 +1,4 @@
-
-
-'''def verifica_igualdade(s1,s2):
-    if s1 == s2:
-        return True
-    else:
-        return False'''
-
+#Função recursiva
 def palindrome(v):
     if len(v) > 1:
         if v[0] == v[len(v)-1]:
