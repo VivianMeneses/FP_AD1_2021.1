@@ -32,7 +32,6 @@ for i in range(n):
     nome_numero.append(int(x[1]))
     numeros.append(int(x[1]))
     cadidatos_numeros.append(nome_numero)
-print(cadidatos_numeros)
 voto = int(input())
 votos = []
 while voto >= 0:

@@ -1,1 +1,3 @@
-print('{:10s}'.format(" "), "ola")
+x = "aa"
+
+print(len(x))
